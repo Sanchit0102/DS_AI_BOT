@@ -11,7 +11,7 @@ PICS = os.environ.get("PICS", "https://envs.sh/_bC.jpg").split()
 ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1562935405').split()]
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://trumbot:trumbot@cluster0.cfkaeno.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "DSBardAI")
-RemoveBG_API = os.environ.get("RemoveBG_API", "")
+RemoveBG_API = os.environ.get("RemoveBG_API", "8js65jxBvtyywyLJTGFVzWiV")
 IBB_API = os.environ.get("IBB_API", "")
 FORCE_SUB = os.environ.get("FORCE_SUB", "")
 PORT = os.environ.get('PORT', '8080')          
