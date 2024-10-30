@@ -12,7 +12,7 @@ ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in environ.
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://trumbot:trumbot@cluster0.cfkaeno.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "DSBardAI")
 RemoveBG_API = os.environ.get("RemoveBG_API", "8js65jxBvtyywyLJTGFVzWiV")
-IBB_API = os.environ.get("IBB_API", "")
+IBB_API = os.environ.get("IBB_API", "843ceb81c0fe834bd1db328e68c32a87")
 FORCE_SUB = os.environ.get("FORCE_SUB", "")
 PORT = os.environ.get('PORT', '8080')          
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001752715418'))
