@@ -30,7 +30,7 @@ async def carbon_func(b, message):
     await m.edit("ᴜᴘʟᴏᴀᴅɪɴɢ..")
     await message.reply_photo(
         photo=carbon,
-        caption="**ᴍᴀᴅᴇ ʙʏ: @Silicon_Bot_Update**",
+        caption="**ᴍᴀᴅᴇ ʙʏ: @DS_BARD_AI_BOT**",
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Dev", url="https://t.me/the_ds_official")]]),                   
     )
     await m.delete()
