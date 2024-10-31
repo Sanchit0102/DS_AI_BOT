@@ -4,6 +4,7 @@ from pyrogram.types import *
 from helper.database import adds_user, db
 from info import *
 from helper.text import txt
+from plugins.fsub import get_fsub
 
 @Client.on_message(filters.private & filters.command("start"))
 async def start_message(bot, message):
