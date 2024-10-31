@@ -23,7 +23,7 @@ class Bot(Client):
         self.name = me.first_name
         self.mention = me.mention
         self.username = me.username
-        self.force_channel = FORCE_SUB if FORCE_SUB else None  
+        #self.force_channel = FORCE_SUB if FORCE_SUB else None  
         app = web.AppRunner(await web_server())
         await app.setup()
         bind_address = "0.0.0.0"
