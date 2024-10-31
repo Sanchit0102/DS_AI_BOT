@@ -1,11 +1,14 @@
 class txt(object):
-    STAT = """<b>ʜᴇʟʟᴏ {} 👋🏻
+    STAT = """<b>Jai Shree Krishna {} 🙏🏻
 
-ɪ ᴀᴍ Cʜᴀᴛɢᴘᴛ Bᴏᴛ Hᴀᴠɪɴɢ Gᴇᴍɪɴɪ 𝟷.𝟻 Fʟᴀsʜ Aɪ Mᴏᴅᴇʟ ᴡɪᴛʜ ᴍᴀɴʏ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇs. 
+ɪ ᴀᴍ Cʜᴀᴛɢᴘᴛ Bᴏᴛ Hᴀᴠɪɴɢ Mᴀɴʏ Aɪ Mᴏᴅᴇʟs ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇs. 
 
+Iᴍ Hᴇʀᴇ Tᴏ Rᴇᴅᴜᴄᴇ Yᴏᴜʀ Pʀᴏʙʟᴇᴍs..
+Yᴏᴜ Cᴀɴ Usᴇ Mᴇ As ʏᴏᴜʀ Pʀɪᴠᴀᴛᴇ Assɪsᴛᴀɴᴛ..
+Asᴋ Mᴇ Aɴʏᴛʜɪɴɢ...Dɪʀᴇᴄᴛʟʏ..
 ᴄʜᴇᴄᴋ ʜᴇʟᴘ ᴍᴇɴᴜ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ 🗞️
 
-ᴇx » ᴀɪ, Mᴀɴʏ Mᴏʀᴇ Mᴏʀᴇ Mᴏʀᴇ...</b>
+<blockquote>Mʏ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/the_ds_official>Sᴀɴᴄʜɪᴛ</a></blockquote></b>
  """
 
     ABT = """ 
