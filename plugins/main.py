@@ -2,7 +2,7 @@ import pyrogram, asyncio, random, time, os
 from pyrogram import Client, filters, enums
 from pyrogram.types import *
 from helper.database import adds_user, db
-from info import PICS, LOG_TEXT, LOG_CHANNEL 
+from info import *
 from helper.text import txt
 
 @Client.on_message(filters.private & filters.command("start"))
@@ -17,7 +17,11 @@ async def start_message(bot, message):
                     username=message.from_user.username,
                     bot=bot.mention)
             )
-    
+    if FSUB:
+        client = bot
+        is_participant = await get_fsub(client, message)
+        if not is_participant:
+            return
     button = InlineKeyboardMarkup([[            
            InlineKeyboardButton("⚡ ʜᴇʟᴩ", callback_data="help"),
            InlineKeyboardButton("📃 ᴀʙᴏᴜᴛ", callback_data="about") 
