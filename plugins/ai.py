@@ -5,7 +5,7 @@ import urllib.parse
 def ask_query(query, model=None):
     # Default system prompt if using the default model
     default_model = 'claude-sonnet-3.5'
-    system_prompt = "You are a helpful assistant. Your name is Silent, and your owner's name is ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️, known as @THE_DS_OFFICIAL."
+    system_prompt = "You are a helpful assistant. Your name is Cypher, and your developer / owner's name is ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️, known as @THE_DS_OFFICIAL."
 
     # Use the provided model or default to 'claude-sonnet-3.5'
     model = model or default_model
