@@ -15,4 +15,4 @@ async def bardandgemini(_: Client, message: Message):
     response = requests.get(app)
     data = response.json()
     api = data['text']
-    await txt.edit(f"ʜᴇʏ: {message.from_user.mention}\n\nϙᴜᴇʀʏ: {query}\n\nʀᴇsᴜʟᴛ:\n\n{api}")
+    await txt.edit(f"ᴊᴀɪ sʜʀᴇᴇ ᴋʀɪsʜɴᴀ {message.from_user.mention}. \nʏᴏᴜʀ ǫᴜᴇʀʏ : {query}\n\n[ʙᴀʀᴅ ᴀɪ](https://t.me/DS_BARD_AI_BOT) : \n{api}")
