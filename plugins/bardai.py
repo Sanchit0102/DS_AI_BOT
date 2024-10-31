@@ -29,7 +29,7 @@ async def bardandgemini(_: Client, message: Message):
         return await message.reply_text("Abey Gadhe Command k baad kuch likh!!")
 
     query = " ".join(message.command[1:])    
-    sticker = await message.reply_sticker(sticker=STICKERS_ID)
+    sticker = await message.reply_sticker(STICKERS_ID)
     #txt = await message.reply_text("⏳")
     app = f"https://horridapi.onrender.com/bard?query={query}"
     response = requests.get(app)
