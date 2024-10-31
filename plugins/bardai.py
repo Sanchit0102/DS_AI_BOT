@@ -29,7 +29,10 @@ async def bardandgemini(_: Client, message: Message):
         return await message.reply_text("Abey Gadhe Command k baad kuch likh!!")
 
     query = " ".join(message.command[1:])    
-    sticker = await message.reply_sticker(STICKERS_ID)
+    #sticker = await message.reply_sticker(STICKERS_ID)
+    p = await message.reply_sticker("CAACAgUAAxkBAAEEAAHoZufJzlT42agC8QLQHLA0j9_88qQAAt0KAAKJV2FXGYHS3ZDNMqweBA") 
+        await asyncio.sleep(15)
+        await p.delete()
     #txt = await message.reply_text("⏳")
     app = f"https://horridapi.onrender.com/bard?query={query}"
     response = requests.get(app)
@@ -50,7 +53,7 @@ async def bardandgemini(_: Client, message: Message):
                     disable_web_page_preview=True,
                 )
     
-    await sticker.delete()
+    #await sticker.delete()
     await _.send_message(
                     LOG_CHANNEL,
                     text=f"user: @{message.from_user.username}\n\nID : <code>{message.from_user.id}</code>\n\nAsked to Bard Ai : {query}\n\nAi Responce: {api}", 
