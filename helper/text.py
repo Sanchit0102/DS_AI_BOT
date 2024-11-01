@@ -8,17 +8,17 @@ Yᴏᴜ Cᴀɴ Usᴇ Mᴇ As ʏᴏᴜʀ Pʀɪᴠᴀᴛᴇ Assɪsᴛᴀɴᴛ..
 Asᴋ Mᴇ Aɴʏᴛʜɪɴɢ...Dɪʀᴇᴄᴛʟʏ..
 ᴄʜᴇᴄᴋ ʜᴇʟᴘ ᴍᴇɴᴜ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ 🗞️
 
-<blockquote>Mʏ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/the_ds_official>Sᴀɴᴄʜɪᴛ</a></blockquote></b>
+<blockquote>Mʏ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/the_ds_official>Sᴀɴᴄʜɪᴛ ❤</a></blockquote></b>
  """
 
     ABT = """ 
-<b>╔════❰ Cʜᴀᴛɢᴘᴛ Bᴏᴛ ❱═❍
+<b>╔════❰ Mᴜʟᴛɪ AI Bᴏᴛ ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {bot}
 ║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/the_ds_official'>ՏIᒪᗴᑎT ᘜᕼOՏT ⚡️</a>
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
 ║┣⪼📚ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
-║┣⪼🗒️ᴠᴇʀsɪᴏɴ : Gᴇᴍɪɴɪ 𝟷.𝟻 Fʟᴀsʜ
+║┣⪼🗒️ᴠᴇʀsɪᴏɴ : ᴠ 0.1.0.2
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍ </b>"""
 
