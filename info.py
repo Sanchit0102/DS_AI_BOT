@@ -13,10 +13,10 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://trumbot:trumbot@cluster0.cfkaen
 DB_NAME = os.environ.get("DB_NAME", "DSBardAI")
 RemoveBG_API = os.environ.get("RemoveBG_API", "8js65jxBvtyywyLJTGFVzWiV")
 IBB_API = os.environ.get("IBB_API", "843ceb81c0fe834bd1db328e68c32a87")
-AUTH_CHANNEL = int(os.environ.get("AUTH_CHANNEL", "-1001752715418"))  # add your channel id for force subscribe
+AUTH_CHANNEL = int(os.environ.get("AUTH_CHANNEL", "-1002104350566"))  # add your channel id for force subscribe
 FSUB = os.environ.get("FSUB", True)
 PORT = os.environ.get('PORT', '8080')          
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001752715418'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002419311285'))
 LOG_TEXT = """<i><u>👁️‍🗨️USER DETAILS</u>
 
 ○ ID : <code>{id}</code>
