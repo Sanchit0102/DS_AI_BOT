@@ -1,5 +1,0 @@
-ᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-
-𝟷𝟸𝟹𝟺𝟻𝟼𝟽𝟾𝟿𝟶
